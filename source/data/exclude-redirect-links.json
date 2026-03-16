@@ -1,9 +1,5 @@
 [
   {
-    "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2015/answers-about-your-tax-benefit-information-online-cra-easy-quick.html",
-    "destination": "/portal-help-pages-my-account/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2015/answers-about-your-tax-benefit-information-online-cra-easy-quick.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-services-availability.html",
     "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-services-availability.html"
   },
@@ -26,6 +22,10 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/provincial-partner.html",
     "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/provincial-partner.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/change-return.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/change-return.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals.html",
@@ -126,6 +126,62 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/residency-spouse-common-law-partner.html",
     "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/residency-spouse-common-law-partner.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/contact-us.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/contact-us.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/application-status-screen-e6.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/application-status-screen-e6.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/benefit-payments.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/benefit-payments.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/contacts-account.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/contacts-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/help-xe8-refund.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/help-xe8-refund.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/authorized-debit-help-menu.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/authorized-debit-help-menu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/step-1-confirm-contact-information-e1.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/step-1-confirm-contact-information-e1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/step-2-confirm-your-marital-status-e2b.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/step-2-confirm-your-marital-status-e2b.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/suggestions-account.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/suggestions-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/suggestions-account-1.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/suggestions-account-1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/technical-difficulties-ex5.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/technical-difficulties-ex5.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/thank-you-using-change-marital-status-service-a8.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/thank-you-using-change-marital-status-service-a8.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/update-contact-information-ex2.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/update-contact-information-ex2.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/what-have-a-printer.html",
+    "destination": "/portal-help-pages-my-account/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals/what-have-a-printer.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/help-non-resident.html",
